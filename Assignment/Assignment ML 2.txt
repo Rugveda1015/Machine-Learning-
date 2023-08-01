@@ -1,0 +1,145 @@
+                                      Assignment 3 (ML)
+
+1.Explain the term machine learning, and how does it work? Explain two machine learning applications in the business world. What are some of the ethical concerns that machine learning applications could raise?
+ans)Machine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention.
+Machine Learning is, undoubtedly, one of the most exciting subsets of Artificial Intelligence. It completes the task of learning from data with specific inputs to the machine. It’s important to understand what makes Machine Learning work and, thus, how it can be used in the future. 
+The Machine Learning process starts with inputting training data into the selected algorithm. Training data being known or unknown data to develop the final Machine Learning algorithm. The type of training data input does impact the algorithm, and that concept will be covered further momentarily. 
+
+2. Describe the process of human learning:
+i. Under the supervision of experts
+ans)Supervision is a process of ‘ongoing collabora-tive, experiential and transformational learning’ that draws on practice and research-based knowledge. It is a ‘flexible’ relationship of ‘mutual trust, respect and integrity’ that takes into account the learning needs of the supervisee.
+
+ii. With the assistance of experts in an indirect manner
+ans)Human learning is a complex process that involves various factors. One of the ways humans learn is through observation, imitation, and modeling. 
+
+iii. Self-education
+ans)better understanding the processes involved in this mode of study, this Teaching Tip outlines components of four key stages to independent learning, known as self-directed learning.
+
+3. Provide a few examples of various types of machine learning.
+ans).Image recognition: using machine learning to teach computers how to identify an image’s contents.
+.Speech recognition: being improved by machine learning algorithms.
+.Virtual personal assistants: such as Siri, Alexa, and Google Assistant.
+.Customer service reps: using machine learning to improve customer service.
+
+4. Examine the various forms of machine learning.
+ans).Supervised Learning is a type of machine learning where the algorithm learns from labeled data. It involves both input data and output data. 
+.Unsupervised Learning is a type of machine learning where the algorithm learns from unlabeled data. It involves only input data and no corresponding output data.
+.Reinforcement Learning is a type of machine learning where an agent learns to behave in an environment by performing certain actions and observing the rewards or penalties that result from those actions.
+
+5. Can you explain what a well-posed learning problem is? Explain the main characteristics that must be present to identify a learning problem properly.
+ans)Well Posed Learning Problem – A computer program is said to learn from experience E in context to some task T and some performance measure P, if its performance on T, as was measured by P, upgrades with experience E. 
+
+Any problem can be segregated as well-posed learning problem if it has three traits – 
+
+.Task
+.Performance Measure 
+.Experience 
+
+6. Is machine learning capable of solving all problems? Give a detailed explanation of your answer.
+ans)The short answer is no. But, like any algorithm, Machine Learning is a tool. It is a tool that can be used to help make decisions, classifications, and predictions in various domains, but obviously it is not omnipotent to all problems.
+
+7. What are the various methods and technologies for solving machine learning problems? Any two of them should be defined in detail.
+ans).Decision Trees: Decision trees are a type of supervised learning algorithm that can be used for both classification and regression tasks. They work by recursively splitting the data into subsets based on the most significant attributes or features. 
+.Neural Networks: Neural networks are a type of machine learning algorithm that are modeled after the structure of the human brain. They consist of layers of interconnected nodes that process information and make predictions.
+.The main difference between Regression and Classification algorithms that Regression algorithms are used to predict the continuous values such as price, salary, age, etc. and Classification algorithms are used to predict/Classify the discrete values such as Male or Female, True or False, Spam or Not Spam, etc.
+Ten methods are described and it is a foundation you can build on to improve your machine learning knowledge and skills:
+Regression.
+Classification.
+Clustering.
+Dimensionality Reduction.
+Ensemble Methods.
+Neural Nets and Deep Learning.
+Transfer Learning.
+Reinforcement Learning.
+
+8. Can you explain the various forms of supervised learning? Explain each one with an example application.
+ans)Supervised learning is a type of machine learning where algorithms learn from labeled data. The labeled data is used to train the algorithm to predict the correct output when given new unlabeled data. There are two main types of supervised learning: regression and classification
+
+9. What is the difference between supervised and unsupervised learning? With a sample application in each region, explain the differences.
+ans).Supervised learning uses labeled input and output data, while unsupervised learning does not.
+.In supervised learning, the algorithm learns on a labeled dataset, providing an answer key that the algorithm can use to evaluate its accuracy on training data. An unsupervised model, in contrast, provides unlabeled data that the algorithm tries to make sense of by extracting features and patterns on its own.
+.Supervised learning involves the mapping from the input to the essential output. On the contrary, unsupervised learning does not aim to produce output in the response of the particular input instead it discovers patterns in data.
+.Supervised learning applies labeled input and output data to predict results.
+
+10. Describe the machine learning process in depth.
+
+a. Make brief notes on any two of the following:
+
+MATLAB is one of the most widely used programming languages.
+
+ii. Deep learning applications in healthcare
+ans).Predicting drug properties and drug-target interaction
+.Generating a compound with desired properties
+.Processing genomic, clinical, and population data
+.Assisting in robotic surgeries
+.Easing administrative workflow
+.Analyzing radiological biomedical images
+
+iii. Study of the market basket
+ans)A data mining technique that is used to uncover purchase patterns in any retail setting is known as Market Basket Analysis. In simple terms Basically, Market basket analysis in data mining is to analyze the combination of products which been bought together.
+
+iv. Linear regression (simple)
+ans)Linear regression models the relationships between at least one explanatory variable and an outcome variable. These variables are known as the independent and dependent variables, respectively. When there is one independent variable (IV), the procedure is known as simple linear regression.
+
+
+11.Why is machine learning important?
+Machine learning is important because it gives enterprises a view of trends in customer behavior and business operational patterns, as well as supports the development of new products. Many of today's leading companies, such as Facebook, Google and Uber, make machine learning a central part of their operations. Machine learning has become a significant competitive differentiator for many companies.
+
+12.What is machine learning?
+Machine learning (ML) is a type of artificial intelligence (AI) that allows software applications to become more accurate at predicting outcomes without being explicitly programmed to do so. Machine learning algorithms use historical data as input to predict new output values.
+
+Recommendation engines are a common use case for machine learning. Other popular uses include fraud detection, spam filtering, malware threat detection, business process automation (BPA) and Pred
+
+
+13.How does supervised machine learning work?
+Supervised machine learning requires the data scientist to train the algorithm with both labeled inputs and desired outputs. Supervised learning algorithms are good for the following tasks:
+
+Binary classification: Dividing data into two categories.
+Multi-class classification: Choosing between more than two types of answers.
+Regression modeling: Predicting continuous values.
+Ensembling: Combining the predictions of multiple machine learning models to pro
+
+14.How does unsupervised machine learning work?
+Unsupervised machine learning algorithms do not require data to be labeled. They sift through unlabeled data to look for patterns that can be used to group data points into subsets. Most types of deep learning, including neural networks, are unsupervised algorithms. Unsupervised learning algorithms are good for the following tasks:
+
+Clustering: Splitting the dataset into groups based on similarity.
+Anomaly detection: Identifying unusual data points in
+
+15.How does semi-supervised learning work?
+Semi-supervised learning works by data scientists feeding a small amount of labeled training data to an algorithm. From this, the algorithm learns the dimensions of the data set, which it can then apply to new, unlabeled data. The performance of algorithms typically improves when they train on labeled data sets. But labeling data can be time consuming and expensive. Semi-supervised learning strikes a middle ground between the performance of supervised.
+
+16.How does reinforcement learning work?
+Reinforcement learning works by programming an algorithm with a distinct goal and a prescribed set of rules for accomplishing that goal. Data scientists also program the algorithm to seek positive rewards -- which it receives when it performs an action that is beneficial toward the ultimate goal -- and avoid punishments -- which it receives when it performs an action that gets it farther away from its ultimate goal. Reinforcement learning is often used in
+Reinforcement learning is often used in areas such as:
+
+Robotics: Robots can learn to perform tasks the physical world using this technique.
+Video gameplay: Reinforcement learning has been used to teach bots to play a number of video games.
+Resource management: Given finite resources and a defined goal, reinforcement learning can help enterprises plan out how to allocate resources.
+
+
+17.Who's using machine learning and what's it used for?
+Today, machine learning is used in a wide range of applications. Perhaps one of the most well-known examples of machine learning in action is the recommendation engine that powers Facebook's news feed.
+
+Facebook uses machine learning to personalize how each member's feed is delivered. If a member frequently stops to read a particular group's posts, the recommendation engine will start to show more of that group's activity earlier in the feed.
+In addition to recommendation engines, other uses for machine learning include the following:
+
+Customer relationship management. CRM software can use machine learning models to analyze email and prompt sales team members to respond to the most important messages first. More advanced systems can even recommend potentially effective responses.
+Business intelligence. BI and analytics vendors use machine learning in their software to identify potentially important data points, patterns of data point
+
+Human resource information systems. HRIS systems can use machine learning models to filter through applications and identify the best candidates for an open position.
+Self-driving cars. Machine learning algorithms can even make it possible for a semi-autonomous car to recognize a partially visible object and alert the driver.
+Virtual assistants. Smart assistants typically combine supervised and unsupervised machine learning models to interpret natural speech and supply context.
+
+
+18.What are the advantages and disadvantages of machine learning?
+Machine learning has seen use cases ranging from predicting customer behavior to forming the operating system for self-driving cars.
+
+When it comes to advantages, machine learning can help enterprises understand their customers at a deeper level. By collecting customer data and correlating it with behaviors over time, machine learning algorithms can learn associations and help teams tailor product development and marketing initiative
+But machine learning comes with disadvantages. First and foremost, it can be expensive. Machine learning projects are typically driven by data scientists, who command high salaries. These projects also require software infrastructure that can be expensive.
+
+There is also the problem of machine learning bias. Algorithms trained on data sets that exclude certain populations or contain errors can lead to inaccurate models of the world that, at best, fail and, at worst, are discriminatory.
+
+
+
+
+
