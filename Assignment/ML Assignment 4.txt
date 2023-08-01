@@ -1,0 +1,63 @@
+ 	 	 	                                                ML Assignment 4
+
+1. What are the key tasks involved in getting ready to work with machine learning modeling?
+ans).Collecting data that is relevant to the problem you want to solve
+.Preparing and cleaning the data to make it suitable for machine learning
+.Choosing a model that fits the data and the desired output
+.Training the model on the data using a machine learning algorithm
+.Evaluating the model's performance and accuracy
+
+2. What are the different forms of data used in machine learning? Give a specific example for each of them.
+ans)The data used in machine learning is typically numerical or categorical. Numerical data includes values that can be ordered and measured, such as age or income. Categorical data includes values that represent categories, such as gender or type of fruit. 
+
+3. Distinguish:
+
+a. Numeric vs. categorical attributes
+ans)Numerical data, as the name implies, refers to numbers. Categorical data is everything else. Categorical data is non-numerical information that is divided into groups. As its name suggests, categorical data describes categories or groups.Categorical data is non-numerical information that is divided into groups. It describes categories or groups. Numerical data, on the other hand, refers to numbers. It can be measured and expressed in number.
+
+b. Feature selection vs. dimensionality reduction
+ans)Feature selection and dimensionality reduction are both used for reducing the number of features in a dataset. The main difference between the two is that the set of features created by feature selection must be a subset of the original set of features, while the set created by dimensionality reduction doesn’t have to be a subset of the original set of features. Dimensionality reduction transforms features into a lower dimension, while feature selection simply selects and excludes given features without changing them
+
+4. Make quick notes on any two of the following:
+
+a. The histogram
+ans)The Histogram is a representation of the numerical data, not accurate but an estimate.
+
+b. Use a scatter plot
+ans).Choose your independent and dependent variables. The independent variable is usually placed along the x-axis, and the dependent variable along the y-axis.
+.Draw an x-axis and a y-axis for your variables, or use a blank worksheet with two columns of data.
+.Plot the data points on the graph, using dots or circles to represent each pair of values.
+.Optionally, you can add a title, labels, gridlines, or a trendline to your scatter plot.
+
+*c.PCA (Principal Component Analysis)
+ans)The Principal Component Analysis is a popular unsupervised learning technique for reducing the dimensionality of data. It increases interpretability yet, at the same time, it minimizes information loss. It helps to find the most significant features in a dataset and makes the data easy for plotting in 2D and 3D.
+
+5. Why is it necessary to investigate data? Is there a discrepancy in how qualitative and quantitative data are explored?
+ans)Investigating data is necessary to understand the underlying patterns and relationships that exist within it. It helps us to identify trends, patterns, and relationships that may not be immediately apparent. It also helps us to identify any discrepancies or inconsistencies in the data that may need to be addressed.Qualitative data are collected as descriptions, anecdotes, opinions, quotes, interpretations, etc., and are generally either not able to be reduced to numbers, or are considered more valuable or informative if left as narratives. As you might expect, quantitative and qualitative information needs to be analyzed differently.
+
+6. What are the various histogram shapes? What exactly are bins?
+ans)The towers or bars of a histogram are called bins. The height of each bin shows how many values from that data fall into that range.bins.
+There are various shapes of histograms such as symmetric, skewed, bimodal, multimodal, uniform and bell-shaped
+
+*7. How do we deal with data outliers?
+ans).Calculate Minkowski Error( loss index that is more insensitive to outliers than the standard mean squared error) to reduce the impact of outliers on the model.
+.Remove those records from the data set completely to reduce the skewness caused during analysis.
+.Assign new values to such records.
+.Transform values to eliminate outliers.
+.Impute outliers and treat them separately.
+.Drop the outliers to prevent skewing of the data.
+.Cap them, i.e. define a max/min point and assign that value to the outlier.
+.Double check them, they could be wrong.
+.Change the scale, use normalization, etc.
+
+8. What are the various central inclination measures? Why does mean vary too much from median in certain data sets?
+ANS)There are three main measures of central tendency: mode. median. mean.
+The 3 most common measures of central tendency are the mean, median and mode. The mode is the most frequent value. The median is the middle number in an ordered data set. The mean is the sum of all values divided by the total number of values
+
+*9. Describe how a scatter plot can be used to investigate bivariate relationships. Is it possible to find outliers using a scatter plot?
+ans)Data pattern identification is also possible with scatter plots. Data points can be grouped together based on how close their values are, and this also makes it easy to identify any outlier points when there are data gaps.
+
+10. Describe how cross-tabs can be used to figure out how two variables are related.
+ans)Cross-tabulation is a statistical tool that groups variables to understand the correlation between different variables. It is also known as contingency tables or cross tabs. Cross-tabulation analysis is most often used to analyze categorical (nominal measurement scale) data. It helps to find patterns, trends, and probabilities within raw data. Cross-tabulation maps out the correlation between variables, insights that otherwise may have been overlooked are clearly understood. It provides qualified or relative data on two or more variables across multiple features with ease.
+
+
