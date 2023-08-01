@@ -1,0 +1,54 @@
+                                              Assignment 2(ML)
+
+
+1. What is the concept of human learning? Please give two examples.
+ans)People learn best by practicing what they have done. Modeling improves learning. People learn best when they can make a meaningful personal connection to the material to be learned. For Example (my theory) Both internal and external factors are important to learning.
+
+2. What different forms of human learning are there? Are there any machine learning equivalents?
+ans)Human learning process varies from person to person. Once a learning process is set into the minds of people, it is difficult to change it. But, in Machine Learning (ML), it is easy to change the learning method by selecting a different algorithm. In ML, overfitting memorizes all examples and an overfitted model lacks generalization and it fails to work on never seen before examples. In most of the Asian countries, the education system does overfitting of students by over coaching and tuitions on technical subjects enabling them to solve only example problems.
+
+3. What is machine learning, and how does it work? What are the key responsibilities of machine learning? 
+ans)
+.Classify data based on models which have been developed.
+.Make predictions for future outcomes based on these models.
+.Use an error function to evaluate the prediction of the model.
+.Optimize a performance criterion using example data or past experience.
+.Construct computer programs that automatically improve with experience.
+
+4. Define the terms "penalty" and "reward" in the context of reinforcement learning.
+ans)Reinforcement Learning is a feedback-based Machine learning technique in which an agent learns to behave in an environment by performing the actions and seeing the results of actions. For each good action, the agent gets positive feedback, and for each bad action, the agent gets negative feedback or penalty.
+
+5. Explain the term "learning as a search"?
+ans)Concept learning can be viewed as the task of searching through a large space of hypothesis implicitly defined by the hypothesis representation. The goal of the concept learning search is to find the hypothesis that best fits the training examples.
+
+6. What are the various goals of machine learning? What is the relationship between these and
+human learning?
+ans)The goal of ML, in simpler words is to understand the nature of (human & other forms of) learning, and to build learning capability in computers. To be more specific there are three aspects of goals of ML. To make the computers smarter, more intelligent. To develop computational models of human learning process and perform computer simulations.
+
+7. Illustrate the various elements of machine learning using a real-life illustration.
+ans).production recommdation
+.social media connection
+.image recognition
+.speech recognition
+
+8. Provide an example of the abstraction method.
+ans)The example of the abstraction method is  abstract void display();
+
+9. What is the concept of generalization? What function does it play in the machine learning
+process?
+ans)The term ‘generalization’ refers to a model’s ability to adapt and react appropriately to previously unseen, fresh data chosen from the same distribution as the model’s initial input. In other words, generalization assesses a model’s ability to process new data and generate accurate predictions after being trained on a training set.
+
+10.What is classification, exactly? What are the main distinctions between classification and regression?
+ans).Classification algorithms are used to analyze discrete values, whereas regression algorithms analyze continuous real values.
+.Classification maps the input data object to some discrete labels, while regression maps the input data object to the continuous real values.
+.Regression helps predict a continuous quantity, while classification predicts discrete class labels.
+.There are also some overlaps between the two types of machine learning algorithms.
+
+11. What is regression, and how does it work? Give an example of a real-world problem that was solved using regression.
+ans)For example, we can use this model to estimate the price of houses based on the data collected in the past years and define a curve. Based on this curve, we can make predictions about the houses. It analysis also helps us to compare the effects of variables measured in different scales.
+
+12. Describe the clustering mechanism in detail.
+ans)Clustering is a technique used in machine learning to group similar data points together. It is an unsupervised learning method that involves dividing the population or data points into a number of groups such that data points in the same groups are more similar to other data points in the same group and dissimilar to the data points in other groups
+
+                                                   
+
